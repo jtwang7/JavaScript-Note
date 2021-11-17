@@ -18,6 +18,10 @@ let set1 = new Set([1, 2, 3, 4]); // 接受数组
 let set2 = new Set(document.querySelectorAll('div')); // 接受具有 iterable 接口的数据结构，document.querySelectorAll() 返回一个 NodeList 静态实例，它是一个类数组对象，具有 iterable 接口
 ```
 
+## 注意事项
+向 Set 加入值的时候，不会发生类型转换，所以 5 和 "5" 是两个不同的值。Set 内部判断两个值是否不同，使用的算法叫做“Same-value-zero equality”，它类似于精确相等运算符（===），主要的区别是向 Set 加入值时认为NaN等于自身，而精确相等运算符认为NaN不等于自身。
+
+
 ## Set 实例的属性和方法
 > 实例的属性和方法都挂载在原型对象上，因此下文用 `Set.prototype.xxx` 来表示实例的属性和方法。
 
