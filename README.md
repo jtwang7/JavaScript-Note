@@ -3,9 +3,12 @@
 ## 开发文档
 * [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 
-- TypeScript
+**TypeScript**
+
 ✅ [TypeScript入门教程](https://ts.xcatliu.com/)
+
 ✅ [TypeScript](https://www.typescriptlang.org)
+
 ✅ [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
 ## 优质开源项目
