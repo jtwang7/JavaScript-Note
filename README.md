@@ -1,7 +1,7 @@
 # JavaScript-Note
 
 ## 开发文档
-* [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
+✅ [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 
 **TypeScript**
 
