@@ -2,6 +2,8 @@
 
 ## 开发文档
 * [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
+* [TypeScript](https://www.typescriptlang.org)
+* [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
 ## 优质开源项目
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
