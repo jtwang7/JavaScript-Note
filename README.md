@@ -11,6 +11,8 @@
 
 ✅ [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
+✅ [TypeScript 中文手册](https://typescript.bootcss.com/)
+
 ## 优质开源项目
 
 **Clean-Code-JavaScript**
