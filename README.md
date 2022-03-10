@@ -13,10 +13,14 @@
 
 ✅ [TypeScript 中文手册](https://typescript.bootcss.com/)
 
-## 优质开源项目
-
-**Clean-Code-JavaScript**
+## 阅读清单
 
 ✅ [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ✅ [clean-code-javascript 中文版](https://github.com/alivebao/clean-code-js#%E7%9B%AE%E5%BD%95)
+
+✅ [Node.js入门教程](https://www.nodebeginner.org/index-zh-cn.html)
+
+✅ [ES6入门教程](https://es6.ruanyifeng.com/)
+
+
