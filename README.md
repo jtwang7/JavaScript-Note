@@ -4,6 +4,9 @@
 
 ✅ [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 
+✅ [axios](https://axios-http.com/docs/intro)
+> js/node.js 中的网络请求方案
+
 **Node.js**
 
 ✅ [Node.js](https://nodejs.org/zh-cn/)
