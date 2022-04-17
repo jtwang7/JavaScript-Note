@@ -36,6 +36,8 @@
 
 ✅ [TypeScript 中文手册](https://typescript.bootcss.com/)
 
+🔆 [TypeScript-Search](https://www.typescriptlang.org/dt/search?search=) `查找Typescript类型定义的相关npm包`
+
 ## 阅读清单
 
 ✅ [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
