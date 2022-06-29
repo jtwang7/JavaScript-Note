@@ -46,7 +46,9 @@
 
 ✅ [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-✅ [clean-code-javascript 中文版](https://github.com/alivebao/clean-code-js#%E7%9B%AE%E5%BD%95)
+✅ [clean-code-javascript 中文版](https://github.com/alivebao/clean-code-js#%E7%9B%AE%E5%BD%95) `JS 代码简洁之道`
+
+✅ [30 seconds of code](https://www.30secondsofcode.org/) `优质JS代码学习片段`
 
 ✅ [Node.js入门教程](https://www.nodebeginner.org/index-zh-cn.html)
 
