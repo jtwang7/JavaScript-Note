@@ -56,4 +56,26 @@
 
 ✅ [Koa框架教程-阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/08/koa.html)
 
+---
 
+> TypeScript
+
+✅ [TypeScript入门教程](https://ts.xcatliu.com/basics/primitive-data-types.html)
+
+✅ [Awesome TypeScript](https://github.com/semlinker/awesome-typescript)
+
+✅ [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/project/compilationContext.html)
+
+✅ [巧用 TypeScript 系列](https://jkchao.cn/search/%E5%B7%A7%E7%94%A8%20TypeScr)
+
+✅ [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/type-system)
+
+✅ [TS 一些工具泛型的使用及其实现](https://zhuanlan.zhihu.com/p/40311981)
+
+✅ [基于 TypeScript 从零重构 axios](https://coding.imooc.com/class/330.html)
+
+✅ [TypeScript 参数简化实战](https://juejin.im/post/5e38dd65518825492b509dd6)
+
+✅ [conditional-types-in-typescript](https://mariusschulz.com/blog/conditional-types-in-typescript)
+
+✅ [Advanced Type](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
