@@ -56,6 +56,8 @@
 
 ✅ [Koa框架教程-阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/08/koa.html)
 
+✅ [ES2020-23简单易懂又实用的精选特性讲解 ✨✨日常开发必备干货！✨✨](https://juejin.cn/post/7111153267874201630)
+
 ---
 
 > TypeScript
