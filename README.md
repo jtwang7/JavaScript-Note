@@ -60,6 +60,8 @@
 
 ✅ [ES2020-23简单易懂又实用的精选特性讲解 ✨✨日常开发必备干货！✨✨](https://juejin.cn/post/7111153267874201630)
 
+✅ [Canvas API 详解](https://juejin.cn/post/6844903587462512647#heading-11)
+
 ---
 
 > TypeScript
