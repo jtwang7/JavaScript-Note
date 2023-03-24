@@ -44,6 +44,8 @@
 
 🔆 [TypeScript-Search](https://www.typescriptlang.org/dt/search?search=) `查找Typescript类型定义的相关npm包`
 
+✅ [Creating Types-from-Types](https://www.typescriptlang.org/docs/handbook/2/types-from-types.html)
+
 ## 阅读清单
 
 ✅ [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
